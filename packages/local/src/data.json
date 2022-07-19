@@ -258,13 +258,13 @@
           "displayName": "Size",
           "values": [
             {
-              "label": "S"
+              "label": "Toilet & Tank"
             },
             {
-              "label": "M"
+              "label": "Sink and Faucet"
             },
             {
-              "label": "L"
+              "label": "Bathroom"
             }
           ]
         }
