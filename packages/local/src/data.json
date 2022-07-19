@@ -2,9 +2,9 @@
   "products": [
     {
       "id": "Z2lkOi8vc2hvcGlmeS9Qcm9kdWN0LzU0NDczMjUwMjQ0MjA=",
-      "name": "New Short Sleeve T-Shirt",
+      "name": "Pressure Washing",
       "vendor": "Next.js",
-      "path": "/new-short-sleeve-t-shirt",
+      "path": "/new-short-sleeve-t-shirt", 
       "slug": "new-short-sleeve-t-shirt",
       "price": { "value": 25, "currencyCode": "USD" },
       "descriptionHtml": "<p><span>Show off your love for Next.js and Vercel with this unique,&nbsp;</span><strong>limited edition</strong><span>&nbsp;t-shirt. This design is part of a limited run, numbered drop at the June 2021 Next.js Conf. It features a unique, handcrafted triangle design. Get it while supplies last – only 200 of these shirts will be made!&nbsp;</span><strong>All proceeds will be donated to charity.</strong></p>",
@@ -94,16 +94,19 @@
         },
         {
           "id": "option-size",
-          "displayName": "Size",
+          "displayName": "Service Needing Done",
           "values": [
             {
-              "label": "S"
+              "label": "House"
             },
             {
-              "label": "M"
+              "label": "Driveway"
             },
             {
-              "label": "L"
+              "label": "sidewalk"
+            }
+            {
+              "label": "Dock"
             }
           ]
         }
@@ -111,7 +114,7 @@
     },
     {
       "id": "Z2lkOi8vc2hvcGlmeS9Qcm9ksdWN0LzU0NDczMjUwMjQ0MjA=",
-      "name": "Lightweight Jacket",
+      "name": "Minor Electrical",
       "vendor": "Next.js",
       "path": "/lightweight-jacket",
       "slug": "lightweight-jacket",
@@ -119,20 +122,20 @@
       "descriptionHtml": "<p><span>Show off your love for Next.js and Vercel with this unique,&nbsp;</span><strong>limited edition</strong><span>&nbsp;t-shirt. This design is part of a limited run, numbered drop at the June 2021 Next.js Conf. It features a unique, handcrafted triangle design. Get it while supplies last – only 200 of these shirts will be made!&nbsp;</span><strong>All proceeds will be donated to charity.</strong></p>",
       "images": [
         {
-          "url": "/assets/lightweight-jacket-0.png",
-          "altText": "Lightweight Jacket",
+          "url": "/assets/ceilingfan_install.jpg",
+          "altText": "Ceiling Fan Install",
           "width": 1000,
           "height": 1000
         },
         {
-          "url": "/assets/lightweight-jacket-1.png",
-          "altText": "Lightweight Jacket",
+          "url": "/assets/switch.jpg",
+          "altText": "Electrical Switch & GFCI Install",
           "width": 1000,
           "height": 1000
         },
         {
-          "url": "/assets/lightweight-jacket-2.png",
-          "altText": "Lightweight Jacket",
+          "url": "/assets/outlet.jpg",
+          "altText": "Electrical Outlet Install",
           "width": 1000,
           "height": 1000
         }
@@ -170,13 +173,13 @@
           "displayName": "Size",
           "values": [
             {
-              "label": "S"
+              "label": "Light & Fan"
             },
             {
-              "label": "M"
+              "label": "Switch"
             },
             {
-              "label": "L"
+              "label": "Outlet & GFCI"
             }
           ]
         }
@@ -184,7 +187,7 @@
     },
     {
       "id": "Z2lkOis8vc2hvcGlmsddeS9Qcm9kdWN0LzU0NDczMjUwMjQ0MjA=",
-      "name": "Shirt",
+      "name": "Minor Plumbing",
       "vendor": "Next.js",
       "path": "/shirt",
       "slug": "shirt",
@@ -192,32 +195,32 @@
       "descriptionHtml": "<p><span>Show off your love for Next.js and Vercel with this unique,&nbsp;</span><strong>limited edition</strong><span>&nbsp;t-shirt. This design is part of a limited run, numbered drop at the June 2021 Next.js Conf. It features a unique, handcrafted triangle design. Get it while supplies last – only 200 of these shirts will be made!&nbsp;</span><strong>All proceeds will be donated to charity.</strong></p>",
       "images": [
         {
-          "url": "/assets/t-shirt-0.png",
-          "altText": "Shirt",
+          "url": "/assets/sink.jpg",
+          "altText": "Install Sink",
           "width": 1000,
           "height": 1000
         },
         {
-          "url": "/assets/t-shirt-1.png",
-          "altText": "Shirt",
+          "url": "/assets/garbagedisposal.jpg",
+          "altText": "Install Garbage Disposal",
           "width": 1000,
           "height": 1000
         },
         {
-          "url": "/assets/t-shirt-2.png",
-          "altText": "Shirt",
+          "url": "/assets/tank.jpg",
+          "altText": "Install Toilet Tank, Float and Valve Install",
           "width": 1000,
           "height": 1000
         },
         {
-          "url": "/assets/t-shirt-3.png",
-          "altText": "Shirt",
+          "url": "/assets/toilet.jpg",
+          "altText": "Toilet Install",
           "width": 1000,
           "height": 1000
         },
         {
-          "url": "/assets/t-shirt-4.png",
-          "altText": "Shirt",
+          "url": "/assets/faucet.jpg",
+          "altText": "Sink and Shower Faucet Install",
           "width": 1000,
           "height": 1000
         }
