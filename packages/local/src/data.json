@@ -26,7 +26,7 @@
           "altText": "Pressure Wash Deck",
           "width": 1000,
           "height": 1000
-        }
+        },
         {
           "url": "/assets/powerwash_fence.jpg",
           "altText": "Pressure Wash House Siding",
@@ -34,17 +34,17 @@
           "height": 1000
         },
         {
-          "url": "/assets/powerwash_driveway",
+          "url": "/assets/powerwash_driveway.jpg",
           "altText": "Pressure Wash Driveway",
           "width": 1000,
           "height": 1000
         },
         {
-          "url": "/assets/powerwash_concrete",
+          "url": "/assets/powerwash_concrete.jpg",
           "altText": "Pressure Wash Concrete",
           "width": 1000,
           "height": 1000
-        }
+        },
         {
           "url": "/assets/powerwash_boatdock.jpg",
           "altText": "Pressure Wash Boat Dock",
@@ -58,7 +58,7 @@
           "height": 1000
         },
         {
-          "url": "/assets/powerwash_walkway",
+          "url": "/assets/powerwash_walkway.jpg",
           "altText": "Pressure Wash Sidewalk",
           "width": 1000,
           "height": 1000
